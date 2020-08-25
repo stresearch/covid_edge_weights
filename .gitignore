@@ -1,0 +1,6 @@
+**.ipynb_checkpoints/
+.idea/
+*.pyc
+**lightning_logs/
+.DS_Store
+.vscode/
